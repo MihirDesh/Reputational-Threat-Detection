@@ -1,0 +1,101 @@
+publisher,url,date,threat degree
+Engadget, https://www.engadget.com/the-morning-after-the-best-of-ces-2023-123801480.html,2023-01-09 ,0.9978343844413757
+Wired, https://www.wired.com/story/the-spawn-of-chatgpt-will-try-to-sell-you-things/,2022-12-16 ,-0.9975499510765076
+Gizmodo.com, https://gizmodo.com/openai-launches-waitlist-for-premium-version-of-chatgpt-1849975059,2023-01-11 ,-0.9944308400154114
+Gizmodo.com, https://gizmodo.com/what-a-chatbot-ai-recommends-for-planning-christmas-1849926975,2022-12-23 ,-0.9744711518287659
+Gizmodo.com, https://gizmodo.com/chatgpt-free-ai-10-fails-nyc-schools-college-essay-porn-1849956907,2023-01-07 ,-0.9827612042427063
+Gizmodo.com, https://gizmodo.com/chatgpt-dall-e-ai-art-sci-fi-hp-lovecraft-story-1849904617,2022-12-19 ,0.988649845123291
+Gizmodo.com, https://gizmodo.com/mental-health-therapy-app-ai-koko-chatgpt-rob-morris-1849965534,2023-01-09 ,-0.9995489716529846
+Gizmodo.com, https://gizmodo.com/donotpay-speeding-ticket-chatgpt-1849960272,2023-01-07 ,0.9938253164291382
+CNN, https://www.cnn.com/2023/01/05/tech/chatgpt-nyc-school-ban/index.html,2023-01-05 ,-0.9986679553985596
+Reuters, https://www.reuters.com/legal/legalindustry/some-law-professors-fear-chatgpts-rise-others-see-opportunity-2023-01-10/,2023-01-10 ,-0.9965494871139526
+Reuters, https://www.reuters.com/breakingviews/microsofts-ai-bet-heads-i-win-tails-i-also-win-2023-01-10/,2023-01-10 ,-0.8716000318527222
+Reuters, https://www.reuters.com/business/chatgpt-owner-openai-projects-1-billion-revenue-by-2024-sources-2022-12-15/,2022-12-15 ,-0.9718218445777893
+Reuters, https://www.reuters.com/markets/deals/chatgpt-creator-openai-talks-tender-offer-valuing-company-29-bln-wsj-2023-01-05/,2023-01-05 ,-0.9385477304458618
+Reuters, https://www.reuters.com/legal/litigation/computer-scientist-says-ai-artist-deserves-its-own-copyrights-2023-01-11/,2023-01-11 ,-0.992902934551239
+Android Central, https://www.androidcentral.com/apps-software/technology-is-a-fragile-machine-that-seems-to-power-everything,2023-01-14 ,0.9817523956298828
+Android Central, https://www.androidcentral.com/phones/microsoft-reportedly-abandons-dual-screen-surface-duo-3-for-foldable,2023-01-11 ,0.985461413860321
+The Guardian, https://www.theguardian.com/technology/2022/dec/31/ai-assisted-plagiarism-chatgpt-bot-says-it-has-an-answer-for-that,2022-12-31 ,-0.998747706413269
+The Guardian, https://www.theguardian.com/technology/2023/jan/05/microsoft-chatgpt-bing-search-engine,2023-01-05 ,-0.9882452487945557
+The Guardian, https://www.theguardian.com/us-news/2023/jan/06/new-york-city-schools-ban-ai-chatbot-chatgpt,2023-01-06 ,-0.9938594698905945
+The Guardian, https://www.theguardian.com/commentisfree/2023/jan/07/chatgpt-bot-excel-ai-chatbot-tech,2023-01-07 ,-0.9994435906410217
+The Guardian, https://www.theguardian.com/commentisfree/2023/jan/14/whats-the-point-of-personal-statements-when-chatgpt-can-say-it-so-much-better,2023-01-14 ,-0.9970002770423889
+The Guardian, https://www.theguardian.com/music/2023/jan/09/dr-dre-marjorie-taylor-greene-song-promo-video,2023-01-09 ,-0.9930985569953918
+Business Insider, https://www.businessinsider.com/chatgpt-creator-openai-talks-for-tender-offer-at-29-billion-2023-1,2023-01-05 ,-0.9910056591033936
+Business Insider, https://www.businessinsider.com/google-x-development-revenue-pivot-waymo-google-glass-2023-1,2023-01-10 ,-0.6747437119483948
+MacRumors, https://www.macrumors.com/2023/01/09/chatgpt-app-store-apps/,2023-01-09 ,-0.9926819205284119
+Slashdot.org, https://slashdot.org/story/22/12/14/2219224/chatgpt-wrote-a-terrible-gizmodo-article,2022-12-15 ,-0.9994869232177734
+Slashdot.org, https://news.slashdot.org/story/22/12/31/0529233/other-software-projects-are-now-trying-to-replicate-chatgpt,2022-12-31 ,-0.9983952641487122
+Slashdot.org, https://news.slashdot.org/story/23/01/04/2320230/nyc-bans-students-and-teachers-from-using-chatgpt,2023-01-04 ,-0.9993392825126648
+Slashdot.org, https://slashdot.org/story/22/12/15/2232258/chatgpt-owner-openai-projects-1-billion-in-revenue-by-2024,2022-12-16 ,-0.9022680521011353
+Slashdot.org, https://slashdot.org/story/23/01/11/0615200/anthropics-claude-improves-on-chatgpt-but-still-suffers-from-limitations,2023-01-11 ,-0.9970593452453613
+Slashdot.org, https://tech.slashdot.org/story/22/12/22/1836240/chatgpt-is-a-code-red-for-googles-search-business,2022-12-22 ,-0.9952640533447266
+Slashdot.org, https://slashdot.org/story/23/01/10/0728212/microsoft-in-talks-to-invest-10-billion-in-chatgpt-owner,2023-01-10 ,-0.9413250684738159
+Slashdot.org, https://slashdot.org/story/22/12/22/0659257/quora-launches-poe-a-way-to-talk-to-ai-chatbots-like-chatgpt,2022-12-22 ,-0.9122335910797119
+Slashdot.org, https://tech.slashdot.org/story/23/01/05/1743230/top-ai-conference-bans-use-of-chatgpt-and-ai-language-tools-to-write-academic-papers,2023-01-05 ,-0.998485267162323
+Slashdot.org, https://tech.slashdot.org/story/23/01/05/2150210/chatgpt-creator-in-talks-for-tender-offer-that-would-give-it-29-billion-valuation,2023-01-05 ,-0.9883691072463989
+Slashdot.org, https://tech.slashdot.org/story/23/01/06/207236/college-student-made-app-that-exposes-ai-written-essays,2023-01-06 ,-0.965255618095398
+Slashdot.org, https://slashdot.org/story/22/12/16/2342256/60-of-us-customers-prefer-businesses-to-communicate-via-text-and-dms-report-finds,2022-12-17 ,-0.860914409160614
+Business Insider, https://www.businessinsider.com/i-used-chatgpt-for-day-and-found-it-very-impressive-2022-12,2022-12-31 ,0.9997040629386902
+Business Insider, https://www.businessinsider.com/i-asked-chatgpt-to-write-insider-story-it-was-convincing-2022-12,2022-12-19 ,0.987567663192749
+Business Insider, https://www.businessinsider.com/bing-chatgpt-google-faces-first-real-competition-in-20-years-2023-1,2023-01-06 ,-0.6145758628845215
+Business Insider, https://www.businessinsider.com/chatgpt-google-salesforce-nepo-baby-zoomtowns-2022-1,2023-01-08 ,0.9345302581787109
+Business Insider, https://www.businessinsider.com/openai-chatgpt-not-likely-to-replace-google-says-morgan-stanley-2022-12,2022-12-15 ,0.978391706943512
+Business Insider, https://www.businessinsider.com/teachers-think-chatgpt-let-them-spend-more-time-actually-teaching-2023-1,2023-01-08 ,-0.9989062547683716
+Business Insider, https://www.businessinsider.com/microsoft-bing-chatgpt-google-search-openai-2023-1,2023-01-04 ,-0.9920822381973267
+Business Insider, https://www.businessinsider.com/chatgpt-essays-college-cheating-professors-caught-students-ai-plagiarism-2023-1,2023-01-14 ,-0.9989834427833557
+Business Insider, https://markets.businessinsider.com/news/stocks/chatgpt-microsoft-stock-game-changer-ai-openai-10-billion-investment-2023-1,2023-01-11 ,-0.9904915690422058
+Business Insider, https://www.businessinsider.com/nyc-schools-ban-chatgpt-cheating-concern-grows-2023-1,2023-01-06 ,-0.997183620929718
+Business Insider, https://www.businessinsider.com/chatgpt-replied-hinge-matches-dating-app-ai-2023-1,2023-01-10 ,-0.9996416568756104
+Business Insider, https://www.businessinsider.com/app-detects-if-chatgpt-wrote-essay-ai-plagiarism-2023-1,2023-01-04 ,-0.9896122813224792
+Business Insider, https://www.businessinsider.com/google-management-issues-code-red-over-chatgpt-report-2022-12,2022-12-21 ,-0.9789912700653076
+Business Insider, https://www.businessinsider.com/chatgpt-startup-boom-funding-generative-ai-trend-jasper-runway-2023-1,2023-01-10 ,0.9941038489341736
+Business Insider, https://www.businessinsider.com/chatgpt-job-applications-hiring-managers-job-interview-candidate-2022-12,2022-12-29 ,-0.9996476173400879
+Business Insider, https://www.businessinsider.com/microsoft-10-billion-openai-gamble-2023-1,2023-01-11 ,-0.8043834567070007
+Business Insider, https://www.businessinsider.com/turnitin-will-detect-chatgpt-answers-openai-product-teachers-ai-speech-2023-1,2023-01-11 ,-0.7940645813941956
+Business Insider, https://www.businessinsider.com/chamath-palihapitiya-said-google-search-will-be-biggest-loser-2023-2023-1,2023-01-06 ,-0.9996205568313599
+Business Insider, https://www.businessinsider.com/apple-and-google-facing-real-competiive-pressure-2023-1,2023-01-13 ,-0.9963299632072449
+Business Insider, https://www.businessinsider.com/microsoft-openai-investment-the-smartest-1-billion-ever-spent-2023-1,2023-01-06 ,-0.9762371778488159
+Business Insider, https://www.businessinsider.com/microsoft-talks-invest-billions-openai-chatgpt-owner-report-2023-1,2023-01-10 ,-0.9960075616836548
+Business Insider, https://markets.businessinsider.com/news/stocks/chatgpt-markets-write-stocks-economy-meme-ai-microsoft-insider-anlayst-2023-1,2023-01-10 ,-0.994375467300415
+Business Insider, https://www.businessinsider.com/chatgtp-and-generative-ai-could-form-techs-next-big-bubble-2023-1,2023-01-12 ,-0.962471604347229
+Business Insider, https://www.businessinsider.com/company-using-chatgpt-mental-health-support-ethical-issues-2023-1,2023-01-07 ,-0.5752869248390198
+Business Insider, https://www.businessinsider.com/tele-prompt-ai-gpt-3-bot-what-to-say-meetings-2022-12,2022-12-22 ,-0.6440489292144775
+Business Insider, https://www.businessinsider.com/bill-gates-reddit-ama-ai-not-metaverse-revolutionary-chatgpt-2023-1,2023-01-12 ,-0.9960601925849915
+Business Insider, https://www.businessinsider.com/amazon-employees-worry-about-bar-raising-process-changes-2023-1,2023-01-12 ,-0.9927448034286499
+Business Insider, https://www.businessinsider.com/many-laid-off-tech-workers-are-bouncing-back-stronger-than-ever2022-12,2022-12-15 ,0.9969524145126343
+Business Insider, https://www.businessinsider.com/the-candidate-for-techs-next-big-boom-or-bubble-is-here-2023-1,2023-01-13 ,0.9977021813392639
+Business Insider, https://www.businessinsider.com/ai-can-transform-biotech-flagship-pioneering-noubar-afeyan-2023-1,2023-01-09 ,0.9974855184555054
+Business Insider, https://www.businessinsider.com/artificial-intelligence-trends-2023-business-healthcare-2023-1,2023-01-10 ,-0.9693297743797302
+Business Insider, https://www.businessinsider.com/best-social-media-moments-and-creator-economy-trends-in-2022,2023-01-05 ,0.9997904896736145
+Business Insider, https://www.businessinsider.com/tech-trends-for-2023-from-adobes-chief-product-officer-2022-12,2023-01-03 ,0.8643775582313538
+Business Insider, https://www.businessinsider.com/how-tiktok-can-avoid-a-ban-in-the-us-2022-12,2022-12-30 ,-0.9950580596923828
+Business Insider, https://www.businessinsider.com/invest-year-stock-market-etoro-analyst-recession-advice-markets-economy-2023-1,2023-01-14 ,-0.9802308678627014
+Business Insider, https://www.businessinsider.com/big-tech-predictions-for-2023-twitter-google-microsoft-amazon-dtc-2022-12,2022-12-28 ,-0.9984571933746338
+Entrepreneur, https://www.entrepreneur.com/business-news/student-builds-chatgpt-detection-app-to-fight-ai-plagiarism/442253,2023-01-05 ,-0.8991138339042664
+Entrepreneur, https://www.entrepreneur.com/growing-a-business/5-crucial-predictions-for-retail-in-2023/441668,2023-01-10 ,0.9000471830368042
+Entrepreneur, https://www.entrepreneur.com/growing-a-business/3-marketing-trends-you-need-to-look-out-for/439439,2023-01-11 ,0.9925365447998047
+Entrepreneur, https://www.entrepreneur.com/science-technology/why-legal-professionals-must-adapt-to-ai-or-risk-being-left/441751,2023-01-11 ,-0.9560185670852661
+Entrepreneur, https://www.entrepreneur.com/growing-a-business/4-trends-that-will-disrupt-communication-strategies-in-2023/442044,2023-01-13 ,-0.9996474981307983
+Bloomington Pantagraph, https://pantagraph.com/news/science/22-of-the-biggest-scientific-discoveries-of-2022/article_8594eeed-4eeb-5d04-aeeb-2b0f3a56ae7a.html,2023-01-02 ,0.9994722008705139
+ReadWrite, https://readwrite.com/declining-power-of-link-building-in-seo/,2022-12-30 ,-0.9964779019355774
+Kotaku, https://kotaku.com/vtuber-twitch-holocaust-denial-minecraft-ai-chatgpt-1849960527,2023-01-06 ,-0.9732537269592285
+Boing Boing, https://boingboing.net/2022/12/19/chatgpt-arrives-in-the-academic-world.html,2022-12-19 ,0.9944954514503479
+Boing Boing, https://boingboing.net/2023/01/04/in-a-challenge-to-google-microsoft-is-adding-chatgpt-to-bing.html,2023-01-04 ,-0.9891646504402161
+Boing Boing, https://boingboing.net/2022/12/20/listen-to-this-ai-generated-christmas-album-from-folk-punk-singer-evan-greer.html,2022-12-20 ,0.9920274615287781
+VentureBeat, https://venturebeat.com/ai/top-5-stories-of-the-week-what-new-technologies-like-chatgpt-may-mean-for-google/,2022-12-17 ,0.9050168991088867
+VentureBeat, https://venturebeat.com/ai/microsoft-openai-chatgpt-yada-yada-yada/,2023-01-11 ,-0.9481984376907349
+VentureBeat, https://venturebeat.com/ai/got-it-ai-creates-truth-checker-for-chatgpt-hallucinations/,2023-01-13 ,-0.9768408536911011
+VentureBeat, https://venturebeat.com/ai/from-dall-e-2-to-chatgpt-covering-ais-wild-year-the-ai-beat/,2022-12-19 ,-0.5442421436309814
+VentureBeat, https://venturebeat.com/ai/thats-so-meta-ml-conference-debates-use-of-chatgpt-in-papers/,2023-01-05 ,-0.9896773099899292
+VentureBeat, https://venturebeat.com/ai/pressure-on-google-as-microsoft-plans-to-add-chatgpt-to-bing/,2023-01-04 ,-0.9994351267814636
+VentureBeat, https://venturebeat.com/games/conversing-with-my-ai-friend-chatgpt-the-deanbeat/,2022-12-16 ,-0.878399133682251
+VentureBeat, https://venturebeat.com/ai/as-google-weighs-in-on-chatgpt-you-com-enters-the-ai-chat/,2022-12-15 ,0.9082428216934204
+VentureBeat, https://venturebeat.com/ai/top-5-stories-of-the-week-ai-buzz-and-ces-unveils-a-self-driving-baby-stroller/,2023-01-07 ,-0.9765737056732178
+VentureBeat, https://venturebeat.com/ai/the-5-top-ai-stories-im-waiting-for-in-2023-the-ai-beat/,2022-12-26 ,0.9977942705154419
+VentureBeat, https://venturebeat.com/ai/top-5-stories-of-the-week-chatgpt-ces-and-cybersecurity-advice-from-aws/,2023-01-14 ,0.9577839374542236
+VentureBeat, https://venturebeat.com/ai/ai-as-a-service-makes-artificial-intelligence-and-data-analytics-more-accessible-and-cost-effective/,2022-12-28 ,-0.7714513540267944
+VentureBeat, https://venturebeat.com/ai/what-10-top-ai-stories-in-2022-reveal-about-2023/,2022-12-29 ,0.9988899827003479
+VentureBeat, https://venturebeat.com/games/inworld-ai-drives-toward-better-ai-characters-in-games-with-grants-and-santa-demo/,2022-12-21 ,-0.9970102310180664
+VentureBeat, https://venturebeat.com/ai/what-we-learned-about-ai-and-deep-learning-in-2022/,2022-12-27 ,0.9937838315963745
+VentureBeat, https://venturebeat.com/ai/large-language-models-broaden-ais-reach-in-industry-and-enterprises/,2022-12-15 ,-0.9888092875480652
