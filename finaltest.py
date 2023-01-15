@@ -92,8 +92,8 @@ def linechart(l):
 
 company_name = st.text_input("Enter company's name")
 # company_name = 'twitter'
-url = f"https://newsapi.org/v2/everything?q={company_name}&from=2022-12-15&sortBy=popularity&apiKey=4c184a1d776548cd8837883e938bd715&language=en"
-#9314028317d8492aa3bb9a9a5bd38287
+url = f"https://newsapi.org/v2/everything?q={company_name}&from=2022-12-15&sortBy=popularity&apiKey=<yourApiKey>&language=en"
+
 res = requests.get(url)
 fox = res.json()
 negcount = 0
